@@ -311,7 +311,7 @@
   @media (min-width: 768px) {
   
     .cover {
-      background: url('https://raw.githubusercontent.com/Dokovic/2022-Class-8/blob/main/src/logo.png') no-repeat center;
+      background: url('https://raw.githubusercontent.com/Dokovic/2022-Class-8/main/src/logo.png') no-repeat center;
       background-size: cover;
     }
   
