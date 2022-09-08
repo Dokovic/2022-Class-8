@@ -25,7 +25,6 @@
     font-family: '楷体', sans-serif;
     font-size: 1.125rem;
     line-height: 1.5;
-    color: #444349;
   }
   
   h1, h2 {
@@ -188,16 +187,18 @@
     font-style: italic;
     font-size: 1rem;
     font-weight: bold;
-    font-color: #ffffff
+    color: #ffffff;
   }
   
   .program h2 {
+    color: #ffffff;
     margin-top: 1.25rem;
   }
   
   .program ul {
     letter-spacing: .06rem;
     font-weight: 700;
+    color: #ffffff;
   }
   
   
