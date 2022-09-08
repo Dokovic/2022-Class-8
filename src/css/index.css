@@ -29,7 +29,7 @@
   }
   
   h1, h2 {
-    font-family: 'Trebuchet MS', cursive;
+    font-family: 'FangSong_GB2312', cursive;
   }
   
   h2 {
@@ -153,7 +153,7 @@
   }
   
   .blurb div {
-    font-family: 'Comic Sans MS', sans-serif;
+    font-family: 'FangSong_GB2312', sans-serif;
     font-weight: 700;
     font-size: 1.1rem;
   }
@@ -190,7 +190,7 @@
   
   .program-wrapper {
     text-align: left;
-    font-family: 'Lucida Sans Unicode', sans-serif;
+    font-family: 'FangSong_GB2312', sans-serif;
   }
   
   .program p {
@@ -241,7 +241,7 @@
   }
   
   .qanda p {
-    font-family: 'Comic Sans MS', sans-serif;
+    font-family: 'FangSong_GB2312', sans-serif;
     text-align: left;
   
   }
@@ -275,7 +275,7 @@
     height: 10vh;
     text-align: center;
     color: white;
-    font-family: 'Comic Sans MS', sans-serif;
+    font-family: 'FangSong_GB2312', sans-serif;
     font-size: .9rem;
     display: table;
     letter-spacing: .02rem;
