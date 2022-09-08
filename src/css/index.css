@@ -12,7 +12,7 @@
     margin-bottom: 1.4rem;
   }
   
-  .together, .program, .gifts, .wishes, .acknowledgement {
+  .together, .program, .gifts, .LW, .acknowledgement {
     width: 95%;
     margin: 1.5rem auto;
     padding: .5rem 1rem;
@@ -221,9 +221,9 @@
   
   
   
-  /* === WISHES STYLES === */
+  /* === LW STYLES === */
   
-  .wishes {
+  .LW {
     background: #616161;
     background: hsla(100,0%,0%,.6);
     width: 100%;
@@ -330,7 +330,7 @@
   }
   
   
-  /* LOCATION */
+  /* TOGETHER */
   
   @media (min-width: 768px) {
   
@@ -389,7 +389,7 @@
   }
   
   
-  /* QANDA */
+  /* LW */
   
   @media (min-width: 768px) {
   
@@ -401,21 +401,21 @@
       margin: .7rem;
     }
   
-     .question-group::after {
+     .wishes-group::after {
       display: none;
     }
   
-    .qanda h3 {
+    .wishes h3 {
       text-align: left;
     }
     
-    .answer{
+    .wishes{
       font-weight: normal;
     }
   }
   
   
-  /* CONTACT */
+  /* ACKNOWLEDGEMENT */
   
   @media (min-width: 768px) {
   
