@@ -173,12 +173,12 @@
   
   
   /* === PROGRAM STYLES === */
-   #grad1 {
-          height: 200px;
-          background-color: #1E90FF;
-          background-image: linear-gradient(#1E90FF, #87CEFA);
-   }
-
+ .program {
+    height: 200px;
+    background-color: #1E90FF;
+    background-image: linear-gradient(#1E90FF, #87CEFA);
+    width: 100%;
+  }
   
   .program-wrapper {
     text-align: left;
