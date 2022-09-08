@@ -76,12 +76,13 @@
     background: hsla(100,0%,0%,.5);
     height: 11rem;
     text-align: center;
+    font-size: 2rem
   }
   
   .tagline {
     text-transform: uppercase;
     letter-spacing: .1668rem;
-    font-size: .10rem
+    font-size: .8rem
   }
   
   .tagline::after {
