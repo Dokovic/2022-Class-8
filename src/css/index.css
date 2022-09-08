@@ -9,7 +9,7 @@
   /* ==== LAYOUT STYLES ==== */
   
   h1,h2,h3,ul,ol,p,img {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.4rem;
   }
   
   .locations, .program, .gifts, .qanda, .contact {
@@ -41,6 +41,7 @@
   
   h1 {
     color: #d2ba87;
+    font-size: 3.8rem;
   }
   
   img:hover {
