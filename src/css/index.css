@@ -22,7 +22,7 @@
   
   body {
     background: url('https://raw.githubusercomtent.com/Dokovic/2022-Class-8/main/src/cover.png') repeat center;
-    font-family: 'Trebuchet MS', sans-serif;
+    font-family: '楷体', sans-serif;
     font-size: 1.125rem;
     line-height: 1.5;
     color: #444349;
@@ -40,7 +40,7 @@
     font-size: 1.5rem;
   }
   
-  h1, .program, .qanda {
+  h1 {
     color: #d2ba87;
   }
   
@@ -145,7 +145,7 @@
   }
   
   .blurb div {
-    font-family: 'Comic Sans MS', sans-serif;
+    font-family: '楷体', sans-serif;
     font-weight: 700;
     font-size: 1.1rem;
   }
@@ -175,19 +175,20 @@
   /* === PROGRAM STYLES === */
  .program {
     height: 50vh;
-    background-color: #4169E1;
-    background-image: linear-gradient(#4169E1,#1E90FF);
+    background-color: #214480;
+    background-image: linear-gradient(#214480,#4682B4);
   }
   
   .program-wrapper {
     text-align: left;
-    font-family: 'Comic Sans MS', sans-serif;
+    font-family: '楷体', sans-serif;
   }
   
   .program p {
     font-style: italic;
     font-size: 1rem;
     font-weight: bold;
+    font-color: #ffffff
   }
   
   .program h2 {
@@ -232,7 +233,7 @@
   }
   
   .qanda p {
-    font-family: 'Comic Sans MS', sans-serif;
+    font-family: '楷体', sans-serif;
     text-align: left;
   
   }
@@ -266,7 +267,7 @@
     height: 10vh;
     text-align: center;
     color: white;
-    font-family: 'Comic Sans MS', sans-serif;
+    font-family: 'MV Boli', sans-serif;
     font-size: .9rem;
     display: table;
     letter-spacing: .02rem;
