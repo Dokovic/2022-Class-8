@@ -29,7 +29,7 @@
   }
   
   h1, h2 {
-    font-family: 'FangSong_GB2312', cursive;
+    font-family: 'Comic Sans MS', cursive;
   }
   
   h2 {
@@ -241,7 +241,7 @@
   }
   
   .qanda p {
-    font-family: 'FangSong_GB2312', sans-serif;
+    font-family: 'Comic Sans MS', sans-serif;
     text-align: left;
   
   }
@@ -275,7 +275,7 @@
     height: 10vh;
     text-align: center;
     color: white;
-    font-family: 'FangSong_GB2312', sans-serif;
+    font-family: 'Comic Sans MS', sans-serif;
     font-size: .9rem;
     display: table;
     letter-spacing: .02rem;
