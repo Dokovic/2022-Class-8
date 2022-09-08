@@ -23,7 +23,7 @@
   body {
     background: url('https://raw.githubusercomtent.com/Dokovic/2022-Class-8/main/src/cover.png') repeat center;
     font-family: '楷体', sans-serif;
-    font-size: 1.125rem;
+    font-size: 1.4rem;
     line-height: 1.5;
   }
   
@@ -36,7 +36,7 @@
   }
   
   h3 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
   
   h1 {
@@ -75,7 +75,7 @@
     background: hsla(100,0%,0%,.5);
     height: 11rem;
     text-align: center;
-    font-size: 2rem
+    font-size: 2.4rem
   }
   
   .tagline {
@@ -102,7 +102,7 @@
   .date {
     font-family:Comic Sans MS;
     color: #d2ba87;
-    font-size: 1.45rem;
+    font-size: 1.5rem;
     letter-spacing: 2.4px;
     position: relative;
     top: -0.05rem;
@@ -146,7 +146,7 @@
   .blurb div {
     font-family: '楷体', sans-serif;
     font-weight: 700;
-    font-size: 1.1rem;
+    font-size: 1.4rem;
   }
   
   .blurb h3 {
@@ -185,7 +185,7 @@
   
   .program p {
     font-style: italic;
-    font-size: 1rem;
+    font-size: 1.4rem;
     font-weight: bold;
     color: #ffffff;
   }
@@ -323,7 +323,7 @@
     }
     
     h1 {
-      font-size: 7rem;
+      font-size: 7.4rem;
     }
   }
   
@@ -370,7 +370,7 @@
   
     .program p {
       font-weight: 400;
-      font-size: 1.15rem;
+      font-size: 1.4rem;
     }
   
   }
