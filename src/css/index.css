@@ -101,11 +101,11 @@
   
   .date {
     font-family:Comic Sans MS;
-    color:#d2ba87;
-    font-size: 1.25rem;
+    color: #d2ba87;
+    font-size: 1.45rem;
     letter-spacing: 2.4px;
     position: relative;
-    top: -1.5rem;
+    top: -2.5rem;
     vertical-align: middle;
   }
   
