@@ -40,24 +40,13 @@
     font-size: 1.5rem;
   }
   
-  a {
-    text-decoration: none;
-    color: #bd806e;
-    font-weight: 600;
-  }
-  
-  a:hover {
-    color: #e5887f;
-    transition: color .4s ease-in-out;
-  }
-  
   h1, .program, .qanda {
     color: #d2ba87;
   }
   
   img:hover {
-    transform: scale(1.03);
-    transition: all 0.7s ease-in-out;
+    transform: scale(1.2);
+    transition: all 0.8s ease-in-out;
   }  
   
   
