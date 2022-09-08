@@ -12,7 +12,7 @@
     margin-bottom: 1.4rem;
   }
   
-  .locations, .program, .gifts, .qanda, .contact {
+  .together, .program, .gifts, .wishes, .acknowledgement {
     width: 95%;
     margin: 1.5rem auto;
     padding: .5rem 1rem;
@@ -136,8 +136,8 @@
   }
   
   
-  /* === LOCATION STYLES === */
-  .location {
+  /* === TOGETHER STYLES === */
+  .together {
     display: table;
     text-align: center;
     margin-left: auto;
@@ -221,9 +221,9 @@
   
   
   
-  /* === QANDA STYLES === */
+  /* === WISHES STYLES === */
   
-  .qanda {
+  .wishes {
     background: #616161;
     background: hsla(100,0%,0%,.6);
     width: 100%;
@@ -231,27 +231,27 @@
     text-align: center;
   }
   
-  .qanda h2 {
+  .wishes h2 {
     margin-top: 1.25rem;
   }
   
-  .qanda p {
+  .wishes p {
     font-family: '楷体', sans-serif;
     text-align: left;
   
   }
   
-  .question {
+  .wishes {
     font-weight: 700;
     margin-bottom: .5rem;
   }
   
-  .answer {
+  .wishes {
     margin-bottom: 1.5rem;
     font-weight: 500;
   }
   
-  .question-group::after {
+  .wishes-group::after {
     content: "";
     display: block;
     height: .19rem;
