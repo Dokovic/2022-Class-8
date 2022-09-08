@@ -100,6 +100,8 @@
   }
   
   .date {
+    font-family:Comic Sans MS;
+    color:#d2ba87;
     font-size: 1.25rem;
     letter-spacing: 2.4px;
     position: relative;
