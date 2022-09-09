@@ -21,7 +21,7 @@
   }
 
   body {
-    background: url('src/cover.png') repeat center;
+    background: url('https://raw.githubusercontent.com/Dokovic/2022-Class-8/main/src/cover.png') repeat center;
     font-family: 'MV Boli', sans-serif;
     font-size: 1.2rem;
     line-height: 1.5;
@@ -304,7 +304,7 @@
   @media (min-width: 768px) {
   
     .cover {
-      background:url('src/logo.png') no-repeat center;
+      background:url('https://raw.githubusercontent.com/Dokovic/2022-Class-8/main/src/logo.png') no-repeat center;
       background-size: cover;
     }
   
