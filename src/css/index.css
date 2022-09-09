@@ -52,7 +52,7 @@
   
   /* === HEADER STYLES === */
   .cover {
-    background:url('https://raw.githubusercontent.com/Dokovic/2022-Class-8/main/src/logo.png') no-repeat 70% center;
+    background:url('https://i11.hoopchina.com.cn/editor/2022-9-9/22-28-57/99e49753-9649-4034-bc78-b95599e9392e.jpeg') no-repeat 70% center;
     background-size: cover;
     display: table;
     text-align: center;
@@ -304,7 +304,7 @@
   @media (min-width: 768px) {
   
     .cover {
-      background:url('https://raw.githubusercontent.com/Dokovic/2022-Class-8/main/src/logo.png') no-repeat center;
+      background:url('https://i11.hoopchina.com.cn/editor/2022-9-9/22-28-57/99e49753-9649-4034-bc78-b95599e9392e.jpeg') no-repeat center;
       background-size: cover;
     }
   
