@@ -52,7 +52,7 @@
   
   /* === HEADER STYLES === */
   .cover {
-    background: src('src/logo.pgn') no-repeat 70% center;
+    background: url('https://gitee.com/dokovic/the-warehouse-of-class-8/raw/master/img/logo.png') no-repeat 70% center;
     background-size: cover;
     display: table;
     text-align: center;
@@ -304,7 +304,7 @@
   @media (min-width: 768px) {
   
     .cover {
-      background: src('src/logo.pgn') no-repeat center;
+      background: url('https://gitee.com/dokovic/the-warehouse-of-class-8/raw/master/img/logo.png') no-repeat center;
       background-size: cover;
     }
   
