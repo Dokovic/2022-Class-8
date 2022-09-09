@@ -19,8 +19,7 @@
     padding: .5rem 1rem;
     text-align: center;
   }
-  
-  
+
   body {
     background: url('https://raw.githubusercomtent.com/Dokovic/2022-Class-8/main/src/cover.png') repeat center;
     font-family: 'MV Boli', sans-serif;
@@ -57,8 +56,8 @@
     background-size: cover;
     display: table;
     text-align: center;
-    height: 88vh;
     width: 100%;
+    height: 950px;
   }
   
   .cover-text-wrapper {
@@ -75,8 +74,9 @@
     color: hsla(0,0%,100%,.9);
     background: #000000;
     background: hsla(100,0%,0%,.5);
-    height: 11rem;
     text-align: center;
+    height: 300px;
+    border-radius: 35px;
   }
   
   .tagline {
@@ -140,7 +140,7 @@
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 4rem;
+    padding-top: 3rem;
   }
   
   .blurb div {
