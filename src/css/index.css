@@ -52,7 +52,7 @@
   
   /* === HEADER STYLES === */
   .cover {
-    background:url('https://i11.hoopchina.com.cn/editor/2022-9-9/22-28-57/99e49753-9649-4034-bc78-b95599e9392e.jpeg') no-repeat 70% center;
+    background:url('https://wx2.sinaimg.cn/mw2000/006w9FzLly1h60q7c3k0bj31yc17zgqz.jpg') no-repeat 70% center;
     background-size: cover;
     display: table;
     text-align: center;
@@ -304,7 +304,7 @@
   @media (min-width: 768px) {
   
     .cover {
-      background:url('https://i11.hoopchina.com.cn/editor/2022-9-9/22-28-57/99e49753-9649-4034-bc78-b95599e9392e.jpeg') no-repeat center;
+      background:url('https://wx2.sinaimg.cn/mw2000/006w9FzLly1h60q7c3k0bj31yc17zgqz.jpg') no-repeat center;
       background-size: cover;
     }
   
