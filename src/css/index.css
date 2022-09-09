@@ -219,9 +219,9 @@
   
   
   
-  /* === LW STYLES === */
+  /* === WISHES STYLES === */
   
-  .LW {
+  .wishes {
     background: #616161;
     background: hsla(100,0%,0%,.6);
     width: 100%;
@@ -239,12 +239,12 @@
   
   }
   
-  .wishes {
-    font-weight: 700;
+  .wish {
+    font-weight: 500;
     margin-bottom: .5rem;
   }
   
-  .wishes {
+  .wish {
     margin-bottom: 1.5rem;
     font-weight: 500;
   }
@@ -387,7 +387,7 @@
   }
   
   
-  /* LW */
+  /* WISHES */
   
   @media (min-width: 768px) {
   
@@ -407,7 +407,7 @@
       text-align: left;
     }
     
-    .wishes{
+    .wish{
       font-weight: normal;
     }
   }
