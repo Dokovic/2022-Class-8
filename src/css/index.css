@@ -222,7 +222,8 @@
   /* === WISHES STYLES === */
   
   .wishes {
-    background: #616161;
+    background-color: #9198e5
+    background-image: linear-gradient(#e66465, #9198e5);
     background: hsla(100,0%,0%,.6);
     width: 100%;
     display: table;
@@ -314,7 +315,7 @@
     }
   
     .cover-text {
-      height: 17.8rem;
+      height: 24rem;
     }
   
     .tagline {
