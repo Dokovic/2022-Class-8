@@ -173,7 +173,7 @@
   
   /* === PROGRAM STYLES === */
  .program {
-    height: 90vh;
+    display: table;
     background-color: #214480;
     background-image: linear-gradient(#214480,#00BFFF);
   }
